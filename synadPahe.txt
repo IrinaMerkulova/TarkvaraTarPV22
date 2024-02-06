@@ -1,0 +1,20 @@
+ПО - Tarkvara
+Процесс разработки ПО - 
+Документация на ПО -
+Проект -
+ИТ проект - 
+Бизнес-проект - 
+Проект по разработке - 
+Проект по реализации - 
+Диаграмма Ганта - 
+критический путь проекта - projekti kriitiline tee
+виды рисков в проекте  - projekti riskiliigid
+аутсортсинг - allhanke?
+краудсортсинг - rahvahanke?
+ИТ аудит - IT audiit
+ERP системы ERP süsteemid
+ROI для оценки проектов - projektide hindamiseks ROI
+Tacit - süsteemid Tacit
+Knowledge Managment System - KMS -?
+cистемы управления базами данных – andmebaaside haldussüsteemid - какие знаете MS SQL , MS Access
+Project Managment Tool -projekti haldamisetarkvara - MS Project
