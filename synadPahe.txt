@@ -9,8 +9,8 @@
 Диаграмма Ганта - 
 критический путь проекта - projekti kriitiline tee
 виды рисков в проекте  - projekti riskiliigid
-аутсортсинг - allhanke?
-краудсортсинг - rahvahanke?
+аутсортсинг - allhange
+краудсортсинг - rahvahange
 ИТ аудит - IT audiit
 ERP системы ERP süsteemid
 ROI для оценки проектов - projektide hindamiseks ROI
